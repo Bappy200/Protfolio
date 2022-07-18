@@ -1,7 +1,6 @@
 import {React, useState} from 'react'
-import { motion } from 'framer-motion';
 import { images } from '../../constants';
-import { urlFor, client } from '../../client';
+import { client } from '../../client';
 import { AppWraper, MotionWrap } from '../Wraper';
 import './Footer.scss'
 
